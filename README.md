@@ -1,2 +1,2 @@
-# Pet project to for acquainted with FASTAPI
+# Pet project for acquainted with FASTAPI
 
